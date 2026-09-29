@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/high-tech_cinematic_digital_background.png" width="100%" alt="banner" />
+  <img src="high-tech_cinematic_digital_background.png" width="100%" alt="banner" />
 </p>
 
 # 🗂️ DION HARVEY
