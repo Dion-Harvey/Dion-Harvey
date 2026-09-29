@@ -10,9 +10,7 @@
 [![Stars](https://img.shields.io/github/stars/Dion-Harvey?style=for-the-badge&logo=github&color=181717)](https://github.com/Dion-Harvey?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/lesterharvey.tech-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lesterharvey.tech)
 
-</div>
 ```
-<div align="center">
 🎯 Turning messy enterprise data into clean, trusted, decision-ready data
 🔬 Python • SQL • BigQuery • Tableau • Power BI • SAP/MDG • UiPath
 ⚡ 17 years in utility T&D data, GIS asset records & information governance
