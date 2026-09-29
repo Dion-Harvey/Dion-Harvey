@@ -93,6 +93,6 @@
 
 ---
 
-*"In God we trust; all others must bring data."* — W. Edwards Deming
+*"Oh, you can’t help that: we’re all mad here. I’m mad. You’re mad."....."You must be, or you wouldn’t have come here."* — The Cheshire Cat
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dion-Harvey&color=2c5364&style=flat-square)
