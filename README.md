@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=LESTER%20DION%20HARVEY&fontSize=40&fontColor=ffffff&fontAlignY=38" alt="banner" />
 </p>
 
-# 🗂️ LESTER DION HARVEY
+# 🗂️ DION HARVEY
 
 ### `data integrity specialist` · `python automation` · `analytics & BI`
 
@@ -14,9 +14,8 @@
 🎯 Turning messy enterprise data into clean, trusted, decision-ready data
 🔬 Python • SQL • BigQuery • Tableau • Power BI • SAP/MDG • UiPath
 ⚡ 17 years in utility T&D data, GIS asset records & information governance
-  </div>
-```
-
+ ```
+ </div>
 ---
 
 ## 🛡️ Featured Projects
