@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=LESTER%20DION%20HARVEY&fontSize=40&fontColor=ffffff&fontAlignY=38" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=DION%20HARVEY&fontSize=40&fontColor=ffffff&fontAlignY=38" alt="banner" />
 </p>
 
 # 🗂️ DION HARVEY
